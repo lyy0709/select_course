@@ -11,7 +11,7 @@
 ## 安装
 
 1. 首先，您需要在您的浏览器上安装一个用户脚本管理器，如 Tampermonkey 或 Greasemonkey。加入了国内cdn加速
-2. 然后，点击 [这里](https://jsd.cdn.zzko.cn/gh/xiaozhou26/select_course@main/%E8%87%AA%E5%8A%A8%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC.js) 安装本脚本。
+2. 然后，点击 [这里](https://jsd.cdn.zzko.cn/gh/lyy0709/select_course@main/%E8%87%AA%E5%8A%A8%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC.js) 安装本脚本。
 
 ## 使用方法
 
