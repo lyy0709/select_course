@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         自动选课脚本
+// @name         中石大自动选课脚本
 // @namespace    https://github.com/lyy0709/select_course,
-// @version      1.3
+// @version      1.5
 // @description  在输入框中输入需要选择的课程点击开始选课即可抢课（确保已经搜索到课程）
 // @author       lyy0709,xiaozhou26
 // @match        https://bk.cup.edu.cn/course-selection/*
